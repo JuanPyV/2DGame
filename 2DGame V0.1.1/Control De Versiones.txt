@@ -1,0 +1,18 @@
+Version 0.1
+
+-Se mueve
+- Mejora de salto
+
+Version 0.1.1
+
+-Mejora de PlayerController
+-Mejora de salto
+-Movimiento de camara
+-PickUp
+-Score
+-PowerUp
+-Menu Principal
+-Menu Pausa
+-Boton Pausa
+-Checkpoint
+-Respawn

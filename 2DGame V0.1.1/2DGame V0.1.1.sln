@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DGame V0.1.1", "2DGame V0.1.1.csproj", "{84B041F8-06BD-4D33-1241-EDC34DC34973}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DGame V0.1.1.Plugins", "2DGame V0.1.1.Plugins.csproj", "{8C94C142-03FD-D2EB-879E-CCB2515F18D6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2DGame V0.1.1.Editor.Plugins", "2DGame V0.1.1.Editor.Plugins.csproj", "{EEFD9182-88F3-619C-45F3-52A2AA590087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B041F8-06BD-4D33-1241-EDC34DC34973}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B041F8-06BD-4D33-1241-EDC34DC34973}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B041F8-06BD-4D33-1241-EDC34DC34973}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B041F8-06BD-4D33-1241-EDC34DC34973}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C94C142-03FD-D2EB-879E-CCB2515F18D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C94C142-03FD-D2EB-879E-CCB2515F18D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C94C142-03FD-D2EB-879E-CCB2515F18D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C94C142-03FD-D2EB-879E-CCB2515F18D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEFD9182-88F3-619C-45F3-52A2AA590087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEFD9182-88F3-619C-45F3-52A2AA590087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEFD9182-88F3-619C-45F3-52A2AA590087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEFD9182-88F3-619C-45F3-52A2AA590087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
